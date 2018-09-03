@@ -248,6 +248,25 @@
             }
         },
         {
+            "Key": "5ff119a5-a041-45e2-b834-0e5eaea08bdb",
+            "Value": {
+                "id": "81e4b955-5522-4156-9d94-081de4875276",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_star_small\/spr_star_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7758b48f-dbf0-43db-8c1a-3d470d788545",
             "Value": {
                 "id": "540aaf36-4bd7-4025-99e4-d6ecc5d62766",
@@ -419,6 +438,25 @@
             }
         },
         {
+            "Key": "c887bdbb-8691-436c-a094-0bfb12cef5f9",
+            "Value": {
+                "id": "ed0d8f03-7996-461a-a20f-41175a6f71e9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_star\/obj_star.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cb41b5c7-bf3c-45a5-9ce7-e2dccb8824c1",
             "Value": {
                 "id": "8dc290c0-40cb-4f16-887e-36c61fa02f2f",
@@ -549,6 +587,25 @@
                 ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fafac7a8-ee2d-4b25-a88c-b022865004b6",
+            "Value": {
+                "id": "116b1976-9fa6-4312-810a-f29114eae523",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_star_big\/spr_star_big.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
