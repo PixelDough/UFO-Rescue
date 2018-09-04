@@ -1,3 +1,10 @@
+enum UFO {
+	FLY,
+	LAND,
+	DIE
+}
+ACTION = UFO.FLY;
+
 hspeed = 0;
 vspeed = 0;
 

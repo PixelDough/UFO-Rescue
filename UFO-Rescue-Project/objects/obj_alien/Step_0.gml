@@ -2,14 +2,5 @@ hspeed = dir * spd;
 
 image_xscale = dir;
 
+event_user(ACTION);
 
-
-if (floor(x) == start_x  + (16 * dir)) {
-	dir *= -1;
-}
-
-randomize();
-var rnd_turn = irandom(60);
-if rnd_turn == 0 {
-	dir *= -1;
-}

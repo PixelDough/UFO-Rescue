@@ -1,12 +1,22 @@
 
 
+event_user(ACTION);
 
-var x_input = (keyboard_check(vk_right) - keyboard_check(vk_left));
-var y_input = (keyboard_check(vk_down) - keyboard_check(vk_up));
+if keyboard_check_pressed(ord("S")) {
+	var scale = floor((floor(window_get_width() / 320)*320) / 320);
+	show_debug_message(scale)
+	surface_resize(application_surface, 320 * scale, 200 * scale);
+}
 
-if x_input == 0 hspeed = lerp(hspeed, 0, 0.05);
-if y_input == 0 vspeed = lerp(vspeed, 0, 0.05);
-
-hspeed = clamp(hspeed + (hspd * x_input), -hspeed_max, hspeed_max);
-vspeed = clamp(vspeed + (vspd * y_input), -vspeed_max, vspeed_max);
-
+var _ground = place_meeting(x, y + vspeed, obj_ground);
+if _ground {
+	y = (obj_ground.y - sprite_yoffset);
+	if ACTION == UFO.FLY {
+		if vspeed < 2 and vspeed > 0 {
+			ACTION = UFO.LAND;
+			speed = 0;
+		} else {
+			ACTION = UFO.DIE;
+		}
+	}
+}
