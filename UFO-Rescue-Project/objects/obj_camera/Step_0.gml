@@ -1,3 +1,5 @@
+global.time++;
+
 if instance_exists(obj_UFO) {
 	
 	x = obj_UFO.x - width/2;
