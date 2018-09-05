@@ -1,1 +1,1 @@
-part_particles_create(global.P_System, x, y, global.ParticleLaserUFO, 10);
+part_particles_create(global.P_System, x, y, global.ParticleLaserUFO, 1);
