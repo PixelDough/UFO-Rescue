@@ -1,7 +1,8 @@
 enum ALIEN {
 	WALK,
 	ENTER,
-	EXIT
+	EXIT,
+	DIE
 }
 ACTION = ALIEN.WALK;
 

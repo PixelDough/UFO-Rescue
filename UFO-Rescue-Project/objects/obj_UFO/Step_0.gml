@@ -20,3 +20,7 @@ if _ground {
 		}
 	}
 }
+
+if life <= 0 {
+	instance_destroy();
+}

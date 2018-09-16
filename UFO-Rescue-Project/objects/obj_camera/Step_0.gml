@@ -10,3 +10,7 @@ if instance_exists(obj_UFO) {
 	camera_set_view_pos(view_camera[0], x, y);
 	
 }
+
+if keyboard_check_pressed(vk_escape) {
+	game_end();
+}

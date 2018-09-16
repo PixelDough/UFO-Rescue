@@ -4,8 +4,8 @@
     "mvc": "1.1",
     "name": "bd1dad43-768e-412d-9ec3-3bebef21d783",
     "children": [
-        "cf3d473f-1806-4a59-a655-bcfdaffad9b7",
-        "90d63e25-27fb-495d-b0db-5e7f3b7136c1"
+        "4cd60564-35a7-40ff-9314-5e9e4d870541",
+        "a32abe11-8016-4135-a49d-3f6dbef9f067"
     ],
     "filterType": "GMSprite",
     "folderName": "Human",
