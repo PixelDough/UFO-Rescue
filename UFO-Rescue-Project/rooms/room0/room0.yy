@@ -57,7 +57,8 @@
         "d0663081-8849-4f2f-9dee-6028a7227527",
         "541b0697-8225-452a-a05e-903ded7031f3",
         "8419578a-1496-4b61-867a-5f8679be3edc",
-        "82ce0af6-4e96-438d-b5b2-f6f7a95c99f3"
+        "82ce0af6-4e96-438d-b5b2-f6f7a95c99f3",
+        "4690f122-90dc-461f-aac2-adfe97e37896"
     ],
     "IsDnD": false,
     "layers": [
@@ -184,7 +185,8 @@
 {"name": "inst_5674EF13","id": "44348f9b-25b4-43a4-bc6a-1c29804206c6","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5674EF13","objId": "ff9327a8-945e-4720-84a0-62c7c0423b90","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 240,"y": 192},
 {"name": "inst_342A7588","id": "5774e630-0bde-4ec8-aee5-1931e120bdd2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_342A7588","objId": "ff9327a8-945e-4720-84a0-62c7c0423b90","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 592,"y": 192},
 {"name": "inst_2402B492","id": "f1f5d3de-be0b-421a-a3a9-5f4c55d23866","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2402B492","objId": "3ca95a53-fcd4-45b2-8395-525435063412","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 80,"y": 192},
-{"name": "inst_7D0D7776","id": "82ce0af6-4e96-438d-b5b2-f6f7a95c99f3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7D0D7776","objId": "f5693b30-5366-4b89-9f03-9b7f3f052442","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 328,"y": 192}
+{"name": "inst_7D0D7776","id": "82ce0af6-4e96-438d-b5b2-f6f7a95c99f3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7D0D7776","objId": "f5693b30-5366-4b89-9f03-9b7f3f052442","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 328,"y": 192},
+{"name": "inst_518E7A37","id": "4690f122-90dc-461f-aac2-adfe97e37896","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_518E7A37","objId": "be201791-6f64-46e9-b5c5-daa6b0d12481","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 504,"y": 192}
             ],
             "layers": [
 
@@ -274,7 +276,7 @@
             "grid_x": 8,
             "grid_y": 8,
             "hierarchyFrozen": false,
-            "hierarchyVisible": false,
+            "hierarchyVisible": true,
             "hspeed": 0,
             "htiled": true,
             "inheritLayerDepth": false,
@@ -292,7 +294,7 @@
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
-            "visible": false,
+            "visible": true,
             "vspeed": 0,
             "vtiled": false,
             "x": 0,

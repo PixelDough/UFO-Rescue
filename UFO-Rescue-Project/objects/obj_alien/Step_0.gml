@@ -11,5 +11,23 @@ if ACTION == ALIEN.ENTER {
 	}
 }
 
+
+// Dying Detection
+var _die = false;
+if place_meeting(x, y, obj_UFO) {
+	if obj_UFO.ACTION == UFO.FLY and obj_UFO.vspeed > 0 _die = true;
+}
+if place_meeting(x, y, obj_laser) _die = true;
+
+if ACTION = ALIEN.DIE _die = false;
+
+if _die {
+	ACTION = ALIEN.DIE;
+	part_particles_create(global.P_System, x, y, global.ParticleExplosionRed, 1);
+	vspeed = -2;
+	audio_play_sound(snd_alien_die, 100, false);
+}
+
+
 event_user(ACTION);
 

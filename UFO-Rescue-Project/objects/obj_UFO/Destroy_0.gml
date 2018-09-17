@@ -6,3 +6,6 @@ for (var i=0; i<aliens; i++) {
 	_alien.vspeed = random_range(0, -3);
 	_alien.spd = random_range(1, 3);
 }
+
+audio_stop_all();
+audio_play_sound(snd_die, 100, false);
