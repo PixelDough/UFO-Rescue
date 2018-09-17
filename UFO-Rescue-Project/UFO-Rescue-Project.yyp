@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "5c4db017-cb62-4840-b90a-d2c9db567834",
+            "Value": {
+                "id": "95487fe2-d986-4277-82a3-c8d16c2c30f6",
+                "resourcePath": "notes\\Ideas.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "5e0785d8-f610-4f25-a916-87408de23fc2",
             "Value": {
                 "id": "df6948d2-4a30-4e46-ac57-f2b6e53186f4",
@@ -740,6 +748,14 @@
                 "id": "e49ea501-f3b8-4d4c-a915-f827273fb960",
                 "resourcePath": "views\\c1de0eda-82e5-439b-a015-65a54ed04632.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c6259f84-6fd3-44d1-9424-5dec0228100b",
+            "Value": {
+                "id": "20cd7088-e1a3-47d3-a311-e76e3d687571",
+                "resourcePath": "sprites\\spr_UFO_trail\\spr_UFO_trail.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

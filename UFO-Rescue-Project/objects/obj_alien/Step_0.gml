@@ -17,7 +17,7 @@ var _die = false;
 if place_meeting(x, y, obj_UFO) {
 	if obj_UFO.ACTION == UFO.FLY and obj_UFO.vspeed > 0 _die = true;
 }
-if place_meeting(x, y, obj_laser) _die = true;
+//if place_meeting(x, y, obj_laser) _die = true;
 
 if ACTION = ALIEN.DIE _die = false;
 

@@ -1,0 +1,8 @@
+ENEMIES:
+	Mortar: 
+		A cannon that fires heat seeking missiles at you, which can be destroyed.
+	Death Ray: 
+		A giant ray gun in the background that periodically fires rays high into the sky. These rays show 
+		a short warning before blasting down at a high speed straight down over the player, with just enough 
+		time for them to move out of the way.
+	

@@ -1,4 +1,4 @@
-shoot_time = 120;
+shoot_time = 90;
 alarm[0] = shoot_time;
 
 gun_direction_start = 90;

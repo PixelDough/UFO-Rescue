@@ -21,3 +21,5 @@ gun_direction_start = 270;
 gun_direction = 0;
 
 life = 5;
+
+alarm[0] = 10;

@@ -35,3 +35,7 @@ part_type_speed(global.ParticleExplosionRed, 0.25, 0.5, 0, 0);
 part_type_direction(global.ParticleExplosionRed, 0, 359, 0, 20);
 part_type_blend(global.ParticleExplosionRed, false);
 part_type_life(global.ParticleExplosionRed, 15, 30);
+
+global.ParticleTrailUFO = part_type_create();
+part_type_sprite(global.ParticleTrailUFO, spr_UFO_trail, true, true, false);
+part_type_life(global.ParticleTrailUFO, 15, 30);
