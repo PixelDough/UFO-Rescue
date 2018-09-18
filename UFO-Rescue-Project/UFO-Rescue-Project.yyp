@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "2a7e354f-c613-4692-99e8-152d3723a8dc",
+            "Value": {
+                "id": "910115eb-99ce-4268-8cad-0d9868575549",
+                "resourcePath": "sprites\\spr_rocket\\spr_rocket.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "30a7b891-b21d-4404-b882-5747b99e5ad0",
             "Value": {
                 "id": "213af445-9c43-48ce-976e-f119a74b2752",
@@ -892,6 +900,14 @@
                 "id": "50168c71-337a-4a9c-b872-9402cf2313ad",
                 "resourcePath": "scripts\\scr_OLDTVFilter_Settings\\scr_OLDTVFilter_Settings.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "eb59f204-e215-42dc-ad7a-cb3cd89c2a29",
+            "Value": {
+                "id": "a6f38104-8a9a-4bd6-8653-b3f5915f775f",
+                "resourcePath": "objects\\obj_rocket\\obj_rocket.yy",
+                "resourceType": "GMObject"
             }
         },
         {

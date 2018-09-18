@@ -7,6 +7,7 @@ ACTION = UFO.FLY;
 
 aliens = 0;
 aliens_max = 6;
+aliens_saved = 0;
 
 hspeed = 0;
 vspeed = 0;
