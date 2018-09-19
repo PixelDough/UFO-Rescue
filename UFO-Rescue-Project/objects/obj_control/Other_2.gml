@@ -1,0 +1,16 @@
+enum COLOR {
+	RED = $323988,
+	TEAL = $bdb667,
+	PURPLE = $963f8b,
+	GREEN = $49a055,
+	BLUE = $8d3140,
+	YELLOW = $72cebf,
+	LBROWN = $29548b,
+	BROWN = $004257,
+	LRED = $6269b8,
+	DGRAY = $505050,
+	GRAY = $787878,
+	LGREEN = $89e094,
+	LBLUE = $c46978,
+	LGRAY = $9f9f9f
+}

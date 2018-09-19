@@ -1,2 +1,2 @@
-part_particles_create(global.P_System, x, y, global.ParticleLaserUFO, 1);
+part_particles_create_color(global.P_System, x, y, global.ParticleExplosion, COLOR.GREEN, 1);
 audio_play_sound(snd_hit, 100, false);
