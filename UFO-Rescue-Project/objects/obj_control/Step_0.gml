@@ -1,8 +1,8 @@
 pal_swap_set_depth(spr_pal, floor(pal_index), -999999, 999999, false);
-if keyboard_check(vk_pageup) {
+if keyboard_check(ord("P")) {
 	pal_index+=0.25;
 } 
-if keyboard_check(vk_pagedown) {
+if keyboard_check(ord("O")) {
 	pal_index-=0.25;
 } 
 
