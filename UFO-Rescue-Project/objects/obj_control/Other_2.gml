@@ -14,3 +14,4 @@ enum COLOR {
 	LBLUE = $c46978,
 	LGRAY = $9f9f9f
 }
+
