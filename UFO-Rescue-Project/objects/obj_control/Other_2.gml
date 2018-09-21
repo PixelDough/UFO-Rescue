@@ -1,4 +1,6 @@
 enum COLOR {
+	BLACK = $000000,
+	WHITE = $FFFFFF,
 	RED = $323988,
 	TEAL = $bdb667,
 	PURPLE = $963f8b,
