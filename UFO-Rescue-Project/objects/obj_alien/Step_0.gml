@@ -26,6 +26,7 @@ if _die {
 	part_particles_create(global.P_System, x, y, global.ParticleExplosion, 1);
 	vspeed = -2;
 	audio_play_sound(snd_alien_die, 100, false);
+	obj_control.aliens_killed++;
 }
 
 

@@ -17,3 +17,5 @@ enum COLOR {
 	LGRAY = $9f9f9f
 }
 
+global.time = 1;
+

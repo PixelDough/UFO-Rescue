@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_title_earth",
     "eventList": [
-        
+        {
+            "id": "30677c69-b8c3-4333-81cc-6cd77f1d3f6e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "a0501cc1-14fb-4885-ba59-ecc5bd856a58"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

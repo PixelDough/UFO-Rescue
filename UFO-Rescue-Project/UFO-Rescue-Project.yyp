@@ -167,10 +167,26 @@
             }
         },
         {
+            "Key": "1d7a82b7-30b9-43ee-b4f0-ae84bf826189",
+            "Value": {
+                "id": "d6a1fe45-c082-48e4-87af-7935f47dc577",
+                "resourcePath": "objects\\obj_fade\\obj_fade.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "204a84a7-da34-4f01-921a-deca3b6e5ca7",
             "Value": {
                 "id": "d348e8d0-701d-4434-9f88-059efea9fee7",
                 "resourcePath": "views\/204a84a7-da34-4f01-921a-deca3b6e5ca7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "20863514-de8a-4e2e-b1ae-55189aae5a28",
+            "Value": {
+                "id": "bae7cdb0-b20e-45df-9c1c-4a1eb1cb34c5",
+                "resourcePath": "views\\20863514-de8a-4e2e-b1ae-55189aae5a28.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -383,6 +399,14 @@
             }
         },
         {
+            "Key": "4ab72062-e606-4b8a-a34b-1cc34782ad6b",
+            "Value": {
+                "id": "adbbfac7-1c5c-424c-929d-b73f51934bab",
+                "resourcePath": "sprites\\spr_UFO_fly\\spr_UFO_fly.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4cd60564-35a7-40ff-9314-5e9e4d870541",
             "Value": {
                 "id": "2413beb1-2919-48ca-9a08-585ee75277bd",
@@ -467,6 +491,14 @@
             "Value": {
                 "id": "81e4b955-5522-4156-9d94-081de4875276",
                 "resourcePath": "sprites\/spr_star_small\/spr_star_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ffd3f83-b86c-41b9-9282-c3c5be274f55",
+            "Value": {
+                "id": "08641ea7-2631-465b-a536-47fe74a826be",
+                "resourcePath": "sprites\\spr_UI_alien_count\\spr_UI_alien_count.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -612,14 +644,6 @@
                 "id": "5188fd93-b31a-4969-ac2f-5b72f0c0735b",
                 "resourcePath": "objects\/obj_control\/obj_control.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "7758b48f-dbf0-43db-8c1a-3d470d788545",
-            "Value": {
-                "id": "540aaf36-4bd7-4025-99e4-d6ecc5d62766",
-                "resourcePath": "sprites\/spr_UFO_fly\/spr_UFO_fly.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -895,6 +919,14 @@
             }
         },
         {
+            "Key": "aeb8f4f7-d4b9-4eed-ba2d-9d1b0bcf5f10",
+            "Value": {
+                "id": "bae88e9b-62af-4e96-b00d-6756f1f492c8",
+                "resourcePath": "objects\\obj_title_UFO\\obj_title_UFO.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "af7fb6d8-9826-4676-b85a-1ae173f7bcf4",
             "Value": {
                 "id": "efdd4c77-653e-41ab-be77-3c67246fe10b",
@@ -1119,6 +1151,14 @@
             }
         },
         {
+            "Key": "dd2c65d1-61e4-4edf-be44-246ff58d2c71",
+            "Value": {
+                "id": "a4d10684-f2cc-4806-aca8-7902ddeea3ca",
+                "resourcePath": "views\\dd2c65d1-61e4-4edf-be44-246ff58d2c71.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "dd9338a8-6e7e-4999-b737-1284320d8c38",
             "Value": {
                 "id": "1d3c0b3e-c8f6-4d03-ae6d-5147748447d7",
@@ -1253,6 +1293,14 @@
                 "resourcePath": "objects\/obj_hangar\/obj_hangar.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "ffb9a3a4-792c-4990-a871-00a0ab062482",
+            "Value": {
+                "id": "9398afc8-6690-43e5-a33f-f5987cf95224",
+                "resourcePath": "scripts\\room_fade_to\\room_fade_to.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
@@ -1272,7 +1320,8 @@
         "c15fc399-347e-4d5f-9f88-8df7e90026e1",
         "64e3cf07-69e0-489c-9c1e-005ac8e2189c",
         "edf5948a-d789-41d9-ad72-7fd1b077b567",
-        "bd0ce940-6fe0-4245-b0e4-2427ff968bf6"
+        "bd0ce940-6fe0-4245-b0e4-2427ff968bf6",
+        "ffb9a3a4-792c-4990-a871-00a0ab062482"
     ],
     "tutorial": ""
 }
