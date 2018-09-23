@@ -807,6 +807,14 @@
             }
         },
         {
+            "Key": "911965be-d6b0-4465-9c08-80bdc54c0fab",
+            "Value": {
+                "id": "df833dd7-0f1a-4ef2-9af2-7ec2723fdf9a",
+                "resourcePath": "sprites\\spr_UI_health_bar\\spr_UI_health_bar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9420b71a-4b74-4ec6-a240-fa0cd8bb4313",
             "Value": {
                 "id": "4fba1a4a-1c33-403d-bcdc-5199e659e876",

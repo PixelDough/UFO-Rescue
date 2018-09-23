@@ -1,4 +1,5 @@
 ///@param room_index
+///@param speed
 
 var _target = argument0;
 var _speed = argument1;

@@ -21,6 +21,7 @@ vspeed_max = 4;
 gun_direction_start = 270;
 gun_direction = 0;
 
-life = 5;
+max_life = 3;
+life = max_life;
 
 alarm[0] = 10;

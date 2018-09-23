@@ -9,3 +9,5 @@ for (var i=0; i<aliens; i++) {
 
 audio_stop_all();
 audio_play_sound(snd_die, 100, false);
+
+room_fade_to(room, 0.2);
