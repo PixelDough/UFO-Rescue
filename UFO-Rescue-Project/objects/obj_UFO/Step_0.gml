@@ -1,5 +1,5 @@
 
-
+pal_swap_set_layer(spr_pal, 3, layer, false);
 event_user(ACTION);
 
 

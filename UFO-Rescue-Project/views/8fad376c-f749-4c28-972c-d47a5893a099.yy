@@ -6,7 +6,8 @@
     "children": [
         "2a7e354f-c613-4692-99e8-152d3723a8dc",
         "61261d52-8edd-43e7-bc49-17f059fcfefd",
-        "55acc91c-b7aa-4f0c-86a2-6cf4f59e9389"
+        "55acc91c-b7aa-4f0c-86a2-6cf4f59e9389",
+        "8d673eee-765b-4e23-be1c-b2bfc234b606"
     ],
     "filterType": "GMSprite",
     "folderName": "Cannon",

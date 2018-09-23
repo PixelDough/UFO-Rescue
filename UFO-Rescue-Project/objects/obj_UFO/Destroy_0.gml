@@ -1,4 +1,4 @@
-part_particles_create_color(global.P_System, x, y, global.ParticleExplosion, COLOR.GREEN, 20);
+part_particles_create(global.P_System, x, y, global.ParticleExplosion, 20);
 
 for (var i=0; i<aliens; i++) {
 	var _alien = instance_create_layer(x, y, "Aliens", obj_alien);

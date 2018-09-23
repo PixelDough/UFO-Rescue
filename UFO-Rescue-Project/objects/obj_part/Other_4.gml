@@ -1,3 +1,6 @@
+global.P_System=part_system_create_layer(layer, false);
+global.P_UFO=part_system_create_layer(layer_get_id("Instances_Back"), false);
+
 global.Particle1 = part_type_create();
 
 part_type_shape(global.Particle1, pt_shape_flare);
@@ -29,3 +32,7 @@ part_type_life(global.ParticleExplosion, 15, 30);
 global.ParticleTrailUFO = part_type_create();
 part_type_sprite(global.ParticleTrailUFO, spr_UFO_trail, true, true, false);
 part_type_life(global.ParticleTrailUFO, 15, 30);
+
+global.ParticleTrailSmoke = part_type_create();
+part_type_sprite(global.ParticleTrailSmoke, spr_smoke, true, true, false);
+part_type_life(global.ParticleTrailSmoke, 15, 30);
