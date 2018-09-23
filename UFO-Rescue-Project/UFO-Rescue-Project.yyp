@@ -647,6 +647,14 @@
             }
         },
         {
+            "Key": "6e39c4e3-5ea9-4b39-a316-55bd832e4e03",
+            "Value": {
+                "id": "20cb55eb-8802-4f31-a695-0d220959d678",
+                "resourcePath": "sprites\\spr_title_text_beta\\spr_title_text_beta.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6f8fbfff-3cc0-4e9a-80f5-8b50de85b5d3",
             "Value": {
                 "id": "c64c43ab-7e14-459e-bcee-7cbd5e71a35c",
@@ -955,6 +963,14 @@
             "Value": {
                 "id": "498e9841-c92d-44bc-8a91-f47fb608b545",
                 "resourcePath": "sprites\/spr_UFO_laser\/spr_UFO_laser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aa589715-a4d8-449d-9100-1b893f00ce75",
+            "Value": {
+                "id": "589c49ea-c9dd-4fcb-85ee-257f52166c74",
+                "resourcePath": "sprites\\spr_title_text_new\\spr_title_text_new.yy",
                 "resourceType": "GMSprite"
             }
         },
