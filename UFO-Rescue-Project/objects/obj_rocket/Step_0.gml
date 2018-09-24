@@ -12,3 +12,4 @@ if instance_exists(obj_UFO) and distance_to_object(obj_UFO) < 200 {
 } else {
 	image_angle -= (angle_difference(image_angle, direction))/30
 }
+

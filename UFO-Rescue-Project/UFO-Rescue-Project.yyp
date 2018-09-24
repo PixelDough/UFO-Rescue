@@ -863,6 +863,14 @@
             }
         },
         {
+            "Key": "9ab72b1a-d899-45df-9842-59c52dac6609",
+            "Value": {
+                "id": "eacdef07-88c3-442f-a595-bfdd66b43de0",
+                "resourcePath": "datafiles_yy\\PaletteGenerator3.0.1.exe.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "9ae4351a-a800-42a3-8d56-870f90b523ae",
             "Value": {
                 "id": "c9b9c438-3c51-4888-b110-357066310168",

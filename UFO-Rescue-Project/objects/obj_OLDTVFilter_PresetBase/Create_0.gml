@@ -9,14 +9,14 @@
 
 script_execute( scr_OLDTVFilter_Settings );
 
-global.oldtvfilter_enabled = true;
+global.oldtvfilter_enabled = false;
 global.keep_aspect_ratio = true;
 
 //  Game Settings
 //  this is based in your game resolution, 
 //  not the game window resolution.
 //  ex.: NES uses 224 lines
-global.game_lines = 224;
+global.game_lines = 200;
 
 //  Noise
 global.noise_enabled = true;
@@ -51,7 +51,7 @@ global.chromatic_magnetude = 0.1;
 
 //  Scanline Settings
 global.scanline_enabled = true;
-global.scanline_count = 224;
+global.scanline_count = 200;
 global.scanline_pattern = sprite_get_texture(sprScanline1,0);        
 global.scanline_magnetude = 0.5;            //  0.0 ~ 1.0
 
