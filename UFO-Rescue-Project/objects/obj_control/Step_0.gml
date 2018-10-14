@@ -23,9 +23,12 @@ if room == title {
 	}
 }
 if room == room0 {
-	if keyboard_check_pressed(vk_enter) and !instance_exists(obj_fade) {
+	if !instance_exists(obj_fade) {
+		if keyboard_check_pressed(vk_enter)  {
 		
-		room_fade_to(title, 0.2);
+			room_fade_to(title, 0.2);
 		
+		}
+		if aliens_saved + aliens_killed >= aliens_in_level room_fade_to(title, 0.05);
 	}
 }
