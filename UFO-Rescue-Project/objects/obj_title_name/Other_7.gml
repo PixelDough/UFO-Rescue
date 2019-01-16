@@ -1,1 +1,0 @@
-sprite_index = (sprite_index == spr_title_text_anim) ? spr_title_text : spr_title_text;
